@@ -19,7 +19,7 @@ The goal of this project is to:
 - Perform **exploratory data analysis** (EDA)
 - Build a dynamic **KPI dashboard** in **Power BI**
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 | Tool          | Purpose                                  |
 |---------------|------------------------------------------|
@@ -27,7 +27,7 @@ The goal of this project is to:
 | Pandas        | Data manipulation                        |
 | Power BI      | Dashboard and data visualization         |
 
-## 📦 Dataset
+## Dataset
 
 - The dataset includes sales records such as:
   - InvoiceNo
@@ -38,7 +38,7 @@ The goal of this project is to:
   - Unit price and quantity
 - Source: [Kaggle/Excel/Online Retail dataset]
 
-## 🔍 Data Preparation (Python)
+## Data Preparation (Python)
 
 In the Python script (`Business_Performance_KPI_Dashboard.ipynb`):
 
@@ -58,9 +58,9 @@ In the Python script (`Business_Performance_KPI_Dashboard.ipynb`):
    - Cleaned dataset was saved as `.csv` for use in Power BI.
 
 
-## 📈 Dashboard Overview (Power BI)
+## Dashboard Overview (Power BI)
 
-### 📌 Dashboard: Sales Performance
+### Dashboard: Sales Performance
 
 | Visualization                  | Insight Provided                                     |
 |-------------------------------|------------------------------------------------------|
@@ -71,7 +71,7 @@ In the Python script (`Business_Performance_KPI_Dashboard.ipynb`):
 | 📅 Sales by Month             | Reveals seasonal trends in sales                    |
 
 
-## 🎯 Business Insights
+## Business Insights
 
 - Peak sales were observed during the holiday season.
 - The company's revenue comes from the top 10 products.
