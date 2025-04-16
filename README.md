@@ -3,7 +3,7 @@
 ## Table of Contents
 - [Introduction](#Introduction)
 - [Objective](#Objective)
-- [Tools & Technologies](#Tools-&-Technologies)
+- [🎯 Tools & Technologies](#🎯-Tools-&-Technologies)
 - [Dataset](#Dataset)
 - [Data Preparation (Python)](#Data-Preparation-(Python))
 - [Dashboard Overview (Power BI)](#Dashboard-Overview-(Power-BI))
