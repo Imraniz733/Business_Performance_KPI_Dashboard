@@ -2,7 +2,7 @@
 
 ## Table of Contents
 - [Introduction](#Introduction)
-- [🎯Objective](#🎯-Objective)
+- [Objective](#Objective)
 - [Tools & Technologies](#Tools-&-Technologies)
 - [Dataset](#Dataset)
 - [Data Preparation (Python)](#Data-Preparation-(Python))
@@ -12,7 +12,7 @@
 ## Introduction
 This project is a complete end-to-end Business Intelligence solution, where raw sales data is transformed, cleaned, and analyzed to create an interactive **Business Performance KPI Dashboard** in Power BI. Python is used for data preparation, and the dashboard provides valuable insights into business trends and product performance.
 
-## 🎯 Objective
+## Objective
 
 The goal of this project is to:
 - Clean and preprocess sales data using **Python**
