@@ -2,7 +2,7 @@
 
 ## Table of Contents
 - [Introduction](#Introduction)
-- [Objective](#Objective)
+- [🎯 Objective](#🎯-Objective)
 - [🎯 Tools & Technologies](#🎯-Tools-&-Technologies)
 - [Dataset](#Dataset)
 - [Data Preparation (Python)](#Data-Preparation-(Python))
